@@ -63,6 +63,7 @@ Do tego dorzucić mozna wszelkie media społecznościowe (SOCMINT), scrapery czy
     - [BeenVerified](https://www.beenverified.com) (nie działa w UE)
 - Analiza plików
     - [Metadata2go](https://www.metadata2go.com)
+    - [Metadata Remover](https://metadataremover.ai/metadata-viewer) — lokalna przeglądarka metadanych EXIF, GPS, XMP i IPTC działająca w przeglądarce bez przesyłania plików
     - [Fotoforensics](https://fotoforensics.com) oraz [29a.ch](https://29a.ch/sandbox/2012/imageerrorlevelanalysis/)
     - [Stolencamerafinder](https://www.stolencamerafinder.com)
 - Generatory
